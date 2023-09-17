@@ -1,0 +1,11 @@
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\bin\Debug\ReadBarcodesQR.dll
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\bin\Debug\ReadBarcodesQR.pdb
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\obj\Debug\ReadBarcodesQR.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\obj\Debug\ReadBarcodesQR.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\obj\Debug\ReadBarcodesQR.dll
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\obj\Debug\ReadBarcodesQR.pdb
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\bin\Debug\zxing.dll
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\bin\Debug\zxing.presentation.dll
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\bin\Debug\zxing.xml
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\bin\Debug\zxing.presentation.xml
+C:\Users\marco\Desktop\devlopments\.net\ReadBarcodesQR\obj\Debug\ReadBarcodesQR.csproj.CopyComplete
