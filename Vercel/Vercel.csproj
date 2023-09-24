@@ -61,6 +61,7 @@
     <Compile Include="Project\GetProject.cs" />
     <Compile Include="Domain\ListAllDomains.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User\GetUserInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
