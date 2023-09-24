@@ -47,6 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DNS\CreateRecordDNS.cs" />
+    <Compile Include="DNS\DeleteRecordDNS.cs" />
+    <Compile Include="DNS\GetRecordsDNS.cs" />
+    <Compile Include="DNS\PatchRecordDNS.cs" />
     <Compile Include="Domain\BuyDomain.cs" />
     <Compile Include="Domain\CheckDomainStatus.cs" />
     <Compile Include="Project\CreateProject.cs" />
