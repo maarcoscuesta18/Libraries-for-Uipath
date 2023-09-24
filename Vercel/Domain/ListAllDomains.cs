@@ -44,7 +44,9 @@ namespace Vercel
                 client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer ", token);
 
                 // Set the request URI
-                string requestUri = $"v5/domains?limit={limit}&since=1609499532000&teamId={teamId}&until=1612264332000";
+                DateTime epochStart = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
+                int timestamp = (int)(DateTime.UtcNow - epochStart).TotalSeconds;
+                string requestUri = $"v5/domains?limit={limit}&since={timestamp}&teamId={teamId}&until={timestamp}";
 
                 HttpResponseMessage response = await client.GetAsync(requestUri);
 

@@ -47,9 +47,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BuyDomain.cs" />
-    <Compile Include="CreateProject.cs" />
-    <Compile Include="ListAllDomains.cs" />
+    <Compile Include="Domain\BuyDomain.cs" />
+    <Compile Include="Domain\CheckDomainStatus.cs" />
+    <Compile Include="Project\CreateProject.cs" />
+    <Compile Include="Project\ListAllProjects.cs" />
+    <Compile Include="Team\GetTeam.cs" />
+    <Compile Include="Team\CreateTeam.cs" />
+    <Compile Include="Project\DeleteProject.cs" />
+    <Compile Include="Project\GetProject.cs" />
+    <Compile Include="Domain\ListAllDomains.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
